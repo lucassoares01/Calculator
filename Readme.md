@@ -9,5 +9,5 @@
                                                                                                                                                      
                                                                                                                                                    
 ## How to test ?
-* You can test by clicking on this link. => [![Netlify Status](https://api.netlify.com/api/v1/badges/ee5668a2-0d34-4e18-b924-8b610d492423/deploy-status)](https://app.netlify.com/sites/lucassoares72-calculatorjs/deploys)
-                                                                                                                                                     
+* You can test by clicking on this link. => https://lucassoares72-calculatorjs.netlify.app
+                                                                                                                                                    
