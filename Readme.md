@@ -9,5 +9,5 @@
                                                                                                                                                      
                                                                                                                                                    
 ## How to test ?
-* You can test by clicking on this link. => https://lucassoares72-calculatorjs.netlify.app
+* You can test on this link. => https://lucassoares72-calculatorjs.netlify.app
                                                                                                                                                     
