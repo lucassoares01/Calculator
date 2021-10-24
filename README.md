@@ -4,9 +4,21 @@
   <img style="margin-right: 100px;" src="https://github.com/lucassoares72/Calculator/blob/Main/github/readme.gif" width="480px" height="500px"/>                                                                           
 </div>
 
-> Calculator made in JavaScript and fully functional :)
-                                                                                                                                                     
+> Calculator made in JavaScript and fully functional :)                                                                                                                                              
                                                                                                                                                    
-## 🚀 How to test ?
- You can test on this link. => https://lucassoares72-calculatorjs.netlify.app
+## 💻 Tecnologies
+
+✔️HTML
+
+✔️CSS
+
+✔️JAVASCRIPT
                                                                                                                                                     
+
+## 🚀 How To Test ?
+
+You can test the project using this command
+
+```
+git clone https://github.com/lucassoares72/Calculator.git
+```
