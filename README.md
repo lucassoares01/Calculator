@@ -16,7 +16,7 @@
 
 ## 🚀 How To Test ?
 
-You can test the project using this command
+You can test the project using this command:
 
 ```
 git clone https://github.com/lucassoares72/Calculator.git
